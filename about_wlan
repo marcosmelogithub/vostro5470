@@ -1,0 +1,40 @@
+Comando no prompt do windows:
+Netsh WLAN show drivers
+
+Exibiu em 31/12/2020 as informações abaixo:
+
+Nome da interface: Wi-Fi
+
+    Driver                    : Intel(R) Wireless-N 7260
+    Fornecedor                : Intel Corporation
+    Provedor                  : Microsoft
+    Data                      : 22/02/2015
+    VersÆo                    : 17.15.0.5
+    Arquivo INF               : netwbw02.inf
+    Tipo                      : Driver Wi-Fi Nativo
+    Tipos de r dio com suporte     : 802.11b 802.11g 802.11n
+    Suporte para o modo FIPS 140-2: Sim
+    Suporte para Prote‡Æo de Quadro de Gerenciamento 802.11w: Sim
+    Rede hospedada compat¡vel: Sim
+    Autentica‡Æo e codifica‡Æo com suporte no modo de infraestrutura:
+                                Abrir           Nenhum
+                                Abrir           WEP-40bit
+                                Abrir           WEP-104bit
+                                Abrir           WEP
+                                WPA-Enterprise  TKIP
+                                WPA-Enterprise  CCMP
+                                WPA-Personal    TKIP
+                                WPA-Personal    CCMP
+                                WPA2-Enterprise TKIP
+                                WPA2-Enterprise CCMP
+                                WPA2-Personal   TKIP
+                                WPA2-Personal   CCMP
+                                Abrir           Definido pelo fornecedor
+                                Definido pelo fornecedorDefinido pelo fornecedor
+    Autentica‡Æo e codifica‡Æo com suporte no modo ad-hoc:
+                                Abrir           Nenhum
+                                Abrir           WEP-40bit
+                                Abrir           WEP-104bit
+                                Abrir           WEP
+                                WPA2-Personal   CCMP
+    V¡deo sem Fio com Suporte: Sim (Driver de Gr ficos: Sim, Driver Wi-Fi: Sim)
